@@ -1,2 +1,3 @@
 # driptip-parser
-### composer install
+### Установка
+```composer install```
